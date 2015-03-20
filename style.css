@@ -1,12 +1,12 @@
 * {
-   outline: 1px color: transparent; !important;
+   outline: 1px; color: black 
 }
 * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
-} 
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -ms-box-sizing: border-box;
+   box-sizing: border-box;
+}
 .app {
 	display: flex; 
 	color: black;
